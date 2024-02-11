@@ -1,0 +1,1 @@
+console.log("And at the end of fear, oblivion")
